@@ -42,24 +42,26 @@
 ---
 
 📂 **Featured Projects**
-Adventure Works Business Analysis
- Power BI, Excel, Tableau, MySQL
- ExcelR Certified Project
- 2025- Performed data cleaning, transformation, and combining multiple sheets in Excel to prepare the dataset for analysis.- Created pivot tables to summarise key metrics and established relationships between tables for seamless reporting.- Developed interactive dashboards in Excel, Power BI, and Tableau showcasing sales trends, regional performance, and
- product insights.
-- Executed SQL queries for data extraction and cleaning to support dashboard creation and analysis.- GitHub Link: github.com/priya15012003/Adventure-works
-Hospitality Analytics– Multi-location Hotel Performance
- Power BI, Excel, Tableau, MySQL
- ExcelR Certified Project
- 2025- Conducted a simulated analysis of nationwide hotel performance data to uncover customer behavior patterns and
- retention drivers.- Cleaned and structured raw data, established data relationships, and created interactive dashboards using Excel and
- Tableau.- Identified potential churn patterns and segmented guest types, leading to strategic recommendations projected to
- improve customer retention by 18%.- Delivered data-driven insights aimed at enhancing revenue and customer experience in the hospitality domain.- GitHub Link: github.com/priya15012003/Hospitality-Analytics-Multi-location-Hotel-Performance/tree/main
- Electric Vehicle Analysis
- Power BI, Python, SQL- Developed an in-depth analysis of urban vehicle usage patterns and trends using a large dataset.
- Elevate Labs
- 2025- Created an interactive Power BI dashboard to explore key metrics such as vehicle types, locations, and usage
- frequencies.- Utilized SQL for data extraction and Python for data manipulation and trend forecasting.- GitHub Link: github.com/priya15012003/Electric-Vehicle-Charging-Demand-Forecasting
+## 🚀 Projects
+
+### 🧾 Adventure Works Business Analysis
+**Tools:** Power BI | Excel | Tableau | MySQL  
+Cleaned and merged data, built dashboards for sales and product insights, and used SQL for data extraction.  
+🔗 [View Project](https://github.com/priya15012003/Adventure-works)
+
+---
+
+### 🏨 Hospitality Analytics
+**Tools:** Power BI | Excel | Tableau | MySQL  
+Analyzed hotel data to identify customer behavior and churn trends; created interactive dashboards.  
+🔗 [View Project](https://github.com/priya15012003/Hospitality-Analytics-Multi-location-Hotel-Performance)
+
+---
+
+### ⚡ Electric Vehicle Analysis
+**Tools:** Power BI | Python | SQL  
+Explored EV usage trends with SQL and Python; built dashboards showing key performance metrics.  
+🔗 [View Project](https://github.com/priya15012003/Electric-Vehicle-Charging-Demand-Forecasting)
 
 > Explore my repositories to see how I turn data into stories that drive change!
 
