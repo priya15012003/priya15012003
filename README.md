@@ -11,7 +11,7 @@
 
 🎯 **About Me**# 👋 Hi, I'm Priya Mithilesh Singh!
 
-🎓 Recently graduated and passionate about data analysis, business insights, and storytelling through data.  
+🎓 Graduated from Amity University and passionate about data analysis, business insights, and storytelling through data.  
 💻 Skilled in **Excel, Power BI, MySQL, Tableau**, and **Agile basics**.  
 📊 I’ve worked on several data visualization and analysis projects — including retail business performance and sales dashboards.  
 ☕ I also have 2.5 years of experience as a **Barista at Tata Starbucks**, where I mastered customer service and coffee craft.  
