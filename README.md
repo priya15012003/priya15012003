@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi, I'm Priya Singh 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analyst-%23F7C873.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FP%26A%20Intern-Rapido-%2300b894?style=for-the-badge" />
+
   <a href="mailto:priya15singh00@gmail.com"><img src="https://img.shields.io/badge/Email-priya15singh00%40gmail.com-red?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/priya-singh-8b372a263/"><img src="https://img.shields.io/badge/LinkedIn-Priya%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
